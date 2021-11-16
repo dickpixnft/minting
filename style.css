@@ -1,0 +1,21 @@
+body {
+    /* background-color: #5C8D71; */
+    font-family: newfont;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.gradient {
+    background-image: linear-gradient(to bottom right, #21d46f, #D648C4);
+}
+
+@font-face {
+    font-family: newfont;
+    src: url(/newfont.ttf);
+}
+
+html {
+    height: 100%;
+}
