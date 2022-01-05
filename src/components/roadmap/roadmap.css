@@ -1,0 +1,46 @@
+.roadmap-control header span {
+    color: #FF9859;
+    /* text-shadow: 1px 0 20px rgb(200 255 0 / 31%); */
+    text-align: center;
+    color: black;
+}
+
+.roadmap-control {
+    padding-bottom: 60px;
+    padding-top: 60px;
+    background-color: #FFE1C9;
+    text-align: center;
+    color: black;
+}
+
+.roadmap-control header {
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+    text-align: center;
+    color: #FF9859;
+}
+
+.roadmap-description {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    color: black;
+    font-weight: 900;
+}
+
+.roadmap-control img {
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+.roadmap-control video {
+    border: solid black 10px;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
