@@ -15,7 +15,7 @@ class JoinCommunity extends React.Component {
                         <h1><span>YOU'VE GOT </span> JUNK MAIL</h1>
                         <p style={{fontWeight: 900}}> Join our Junk Mail newsletter to stay up to date with the Dick Pix community. We wouldn't want you getting blue balls. </p>
                     </div>
-                    <a href="https://forms.gle/2kSmjoTAefDWWyMA6"><YButton text='JUNK MAIL' /></a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRpcp773JFMW3iCWMKYtAEuxOGKa5QQoM1D6n88-SNB0HvHw/viewform?usp=sf_link"><YButton text='JUNK MAIL' /></a>
                 </Container>
             </div>
         );

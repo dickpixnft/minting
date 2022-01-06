@@ -76,7 +76,7 @@ class Header extends React.Component {
                                         <div>
                        <a style={{textDecoration: "none", color:"white", paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://instagram.com/dickpixnft"> <BsInstagram size={32} /></a>
                        <a style={{textDecoration: "none", color:"white", paddingLeft: 10, paddingRight: 10}}target="_blank" rel="noopener noreferrer"href="https://twitter.com/thedickpixnft"> <BsTwitter size={32} /></a>
-                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10}}target="_blank" rel="noopener noreferrer"href="https://discord.gg/SgJyg5Wx/"> <BsDiscord size={32} />   </a>     
+                       <a style={{textDecoration: "none", color:"white", paddingLeft: 10}}target="_blank" rel="noopener noreferrer"href="https://discord.gg/y7zpCW4EeQ"> <BsDiscord size={32} />   </a>     
                     </div>
                                         {/* <a href="https://google.com/"><YButton text='OPENSEA' /></a>
                                     </Nav.Link> */}

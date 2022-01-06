@@ -19,7 +19,7 @@
     line-height: 50px;
     color: black;
     font-style: italic;
-    font-weight: 900;
+    /* font-weight: 0; */
 }
 
 .about-description p {

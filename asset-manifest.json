@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.65fef7c9.chunk.css",
-    "main.js": "/static/js/main.19899ca4.chunk.js",
-    "main.js.map": "/static/js/main.19899ca4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0c258aa1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0c258aa1.js.map",
-    "static/css/2.d8cb5cde.chunk.css": "/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.dd8550ed.chunk.js": "/static/js/2.dd8550ed.chunk.js",
-    "static/js/2.dd8550ed.chunk.js.map": "/static/js/2.dd8550ed.chunk.js.map",
-    "static/js/3.ecdd5785.chunk.js": "/static/js/3.ecdd5785.chunk.js",
-    "static/js/3.ecdd5785.chunk.js.map": "/static/js/3.ecdd5785.chunk.js.map",
+    "main.css": "/static/css/main.95c33c45.chunk.css",
+    "main.js": "/static/js/main.c48c87df.chunk.js",
+    "main.js.map": "/static/js/main.c48c87df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8d41910.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8d41910.js.map",
+    "static/css/2.71f93bf9.chunk.css": "/static/css/2.71f93bf9.chunk.css",
+    "static/js/2.d9cc7bb5.chunk.js": "/static/js/2.d9cc7bb5.chunk.js",
+    "static/js/2.d9cc7bb5.chunk.js.map": "/static/js/2.d9cc7bb5.chunk.js.map",
+    "static/js/3.7bdfb3e2.chunk.js": "/static/js/3.7bdfb3e2.chunk.js",
+    "static/js/3.7bdfb3e2.chunk.js.map": "/static/js/3.7bdfb3e2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.d8cb5cde.chunk.css.map": "/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.65fef7c9.chunk.css.map": "/static/css/main.65fef7c9.chunk.css.map",
-    "static/js/2.dd8550ed.chunk.js.LICENSE.txt": "/static/js/2.dd8550ed.chunk.js.LICENSE.txt",
+    "static/css/2.71f93bf9.chunk.css.map": "/static/css/2.71f93bf9.chunk.css.map",
+    "static/css/main.95c33c45.chunk.css.map": "/static/css/main.95c33c45.chunk.css.map",
+    "static/js/2.d9cc7bb5.chunk.js.LICENSE.txt": "/static/js/2.d9cc7bb5.chunk.js.LICENSE.txt",
     "static/media/CenterPic.8cb4515a.png": "/static/media/CenterPic.8cb4515a.png",
     "static/media/header.css": "/static/media/newfont.7c5dab01.ttf",
     "static/media/join-community.css": "/static/media/DickPix.be6bd296.png",
@@ -31,10 +31,10 @@
     "static/media/logo.326fdbba.png": "/static/media/logo.326fdbba.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c258aa1.js",
-    "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.dd8550ed.chunk.js",
-    "static/css/main.65fef7c9.chunk.css",
-    "static/js/main.19899ca4.chunk.js"
+    "static/js/runtime-main.c8d41910.js",
+    "static/css/2.71f93bf9.chunk.css",
+    "static/js/2.d9cc7bb5.chunk.js",
+    "static/css/main.95c33c45.chunk.css",
+    "static/js/main.c48c87df.chunk.js"
   ]
 }
