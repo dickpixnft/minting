@@ -17,21 +17,21 @@ class RoadMap extends React.Component {
                 {
                     tag: 'Stop 1',
                     title: 'The Balls Dropped',
-                    content: 'Welcome to the Dick Pix community! Our public mint is live and we rock out with our....well, you know the rest. '
+                    content: 'Welcome to the Dick Pix community! Our public mint is live and we rock out with our....well, you know the rest.'
                 },
                 {
                     tag: 'Stop 2',
-                    title: 'Send a Pix',
+                    title: 'Unsolicited Airdrops',
                     content: 'Our airdrop giveaways (a.k.a. unsolicited dick pix) begin! 5 unsuspecting holders will each receive 1 Dick.'
                 },
                 {
                     tag: 'Stop 3',
-                    title: 'Unsolicited Dicks',
+                    title: 'Dix-elated',
                     content: 'Draw me like one of your French girls! Jen is going to &quot;dix-elate&quot; 5 lucky holders and turn their likeness (not their actual Dicks) into 1/1 Dick Pix characters to forever live on the "cock-chain".'
                 },
                 {
                     tag: 'Stop 4',
-                    title: 'Dix-elated',
+                    title: 'Big Package Giveaway',
                     content: 'One lucky holder will receive the &quot;Better Dick Pix Package&quot; of a new iPhone, Macbook Pro, and a ring light! *US based residents only, ETH equivalent outside of US*'
                 },
                 {
@@ -41,17 +41,17 @@ class RoadMap extends React.Component {
                 },
                 {
                     tag: 'Stop 6',
-                    title: 'Wrap it up',
+                    title: 'Wrap It Up',
                     content: 'Our dick philanthropy begins! A portion of the proceeds from mint go to sexual health and wellness organizations for STD/STI testing, family planning, and safe sex education and wellness practices.'
                 },
                 {
                     tag: 'Stop 7',
-                    title: 'BAG OF DICKS',
+                    title: 'Bag of Dicks',
                     content: 'WE SOLD OUT! THE DICK GAME NOW BEGINS. It&#39;s like Go Fish, but with dicks. Collect all the dicks in a set and receive exclusive, super rare airdrops, giveaways, and more!'
                 },
                 {
                     tag: 'Stop 8',
-                    title: 'Just the Tip',
+                    title: 'Community Sack',
                     content: 'The “Community Sack” Wallet is dropped! Royalties are set at 10% for the collection. 50% of these royalties will be allocated for holders to receive exclusive giveaways, airdrops, prizes, and ongoing community development. The remaining 50% will be used for business expenses - such as marketing and staffing - to ensure continued growth and success for our Dick Pix community.'
                 }
             ]

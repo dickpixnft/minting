@@ -15,8 +15,8 @@ class About extends React.Component {
                         <Col md={6} xs={12} className='about-description'>
                             <header>
                                 <span>3000</span> DICKS.<br/>
-                                <span>777</span> ORIGINAL DICKS.<br/>
-                                <span>2223</span> SPECIAL DICKS.<br/>
+                                <span>777</span> ORIGINALS.<br/>
+                                <span>2223</span> SPECIALS.<br/>
                                 <span>1</span> GAME.
                             
                             </header>
