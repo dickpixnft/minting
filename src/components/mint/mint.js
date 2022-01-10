@@ -92,7 +92,7 @@ function Mint() {
               <br /> ABOUT <text style={{ color: "white" }}>THE DICKS:</text>
             </header>
             <p style={{ textAlign: "center" }}>
-              777 of the Dicks are Legendary NFTs. They are the only 1/1
+              3000 total supply. 777 of the Dicks are Legendary NFTs. They are the only 1/1
               hand-drawn originals in the entire collection. The remaining 2,223
               fall into 3 categories: Super Rare, Rare, and Common. There are
               703 Super Rare Dicks in Black &amp; White, 743 Rare Dicks in Gold,
@@ -110,9 +110,9 @@ function Mint() {
               you must hold all 4 versions (1 Legendary, 1 Super Rare, 1 Rare,
               and 1 Common) of the Snoop Dogg dick to make a complete Snoop set.
               <br />
-              <br />
               <text style={{fontStyle: "italic"}}>All “Bag of Dicks” holders will be rewarded with exclusive
-              airdrops, giveaways, prizes, and more!</text>
+              airdrops, giveaways, prizes, and more!</text><br/><br/>
+              SMART CONTRACT: <br/><a style={{color: "white"}} href="https://etherscan.io/address/0x7181d2038b849a18145eb153b8befc552e52c37a">0x7181d2038B849A18145eb153b8bEFC552e52c37A</a>
             </p>
 
             <div className="number-control">
