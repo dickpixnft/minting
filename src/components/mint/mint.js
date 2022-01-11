@@ -24,7 +24,7 @@ function Mint() {
     if (_amount <= 0) {
       return;
     }
-    setFeedback("Minting your Official BooCrew NFT...");
+    setFeedback("Minting your Official DickPix NFT...");
     setClaimingNft(true);
     blockchain.smartContract.methods
       .mint(blockchain.account, _amount)
@@ -40,7 +40,7 @@ function Mint() {
         to: "0x7181d2038B849A18145eb153b8bEFC552e52c37A", // the address of your contract
         from: blockchain.account,
         value: blockchain.web3.utils.toWei(
-          (0.077 * _amount).toString(),
+          (0.0777 * _amount).toString(),
           "ether"
         ),
       })
@@ -92,11 +92,11 @@ function Mint() {
               <br /> ABOUT <text style={{ color: "white" }}>THE DICKS:</text>
             </header>
             <p style={{ textAlign: "center" }}>
-              3000 total supply. 777 of the Dicks are Legendary NFTs. They are the only 1/1
-              hand-drawn originals in the entire collection. The remaining 2,223
-              fall into 3 categories: Super Rare, Rare, and Common. There are
-              703 Super Rare Dicks in Black &amp; White, 743 Rare Dicks in Gold,
-              and 777 Common Dicks in 3D.
+              3000 total supply. 777 of the Dicks are Legendary NFTs. They are
+              the only 1/1 hand-drawn originals in the entire collection. The
+              remaining 2,223 fall into 3 categories: Super Rare, Rare, and
+              Common. There are 703 Super Rare Dicks in Black &amp; White, 743
+              Rare Dicks in Gold, and 777 Common Dicks in 3D.
               <br />
               <br />
               <header style={{ fontWeight: 0 }}>
@@ -110,9 +110,19 @@ function Mint() {
               you must hold all 4 versions (1 Legendary, 1 Super Rare, 1 Rare,
               and 1 Common) of the Snoop Dogg dick to make a complete Snoop set.
               <br />
-              <text style={{fontStyle: "italic"}}>All “Bag of Dicks” holders will be rewarded with exclusive
-              airdrops, giveaways, prizes, and more!</text><br/><br/>
-              SMART CONTRACT: <br/><a style={{color: "white"}} href="https://etherscan.io/address/0x7181d2038b849a18145eb153b8befc552e52c37a">0x7181d2038B849A18145eb153b8bEFC552e52c37A</a>
+              <text style={{ fontStyle: "italic" }}>
+                All “Bag of Dicks” holders will be rewarded with exclusive
+                airdrops, giveaways, prizes, and more!
+              </text>
+              <br />
+              <br />
+              SMART CONTRACT: <br />
+              <a
+                style={{ color: "white" }}
+                href="https://etherscan.io/address/0x7181d2038b849a18145eb153b8befc552e52c37a"
+              >
+                0x7181d2038B849A18145eb153b8bEFC552e52c37A
+              </a>
             </p>
 
             <div className="number-control">
