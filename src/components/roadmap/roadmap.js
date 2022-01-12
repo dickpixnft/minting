@@ -27,12 +27,12 @@ class RoadMap extends React.Component {
                 {
                     tag: 'Stop 3',
                     title: 'Dix-elated',
-                    content: 'Draw me like one of your French girls! Jen is going to &quot;dix-elate&quot; 5 lucky holders and turn their likeness (not their actual Dicks) into 1/1 Dick Pix characters to forever live on the "cock-chain".'
+                    content: 'Draw me like one of your French girls! Jen is going to "dix-elate" 5 lucky holders and turn their likeness (not their actual Dicks) into 1/1 Dick Pix characters to forever live on the "cock-chain".'
                 },
                 {
                     tag: 'Stop 4',
                     title: 'Big Package Giveaway',
-                    content: 'One lucky holder will receive the &quot;Better Dick Pix Package&quot; of a new iPhone, Macbook Pro, and a ring light! *US based residents only, ETH equivalent outside of US*'
+                    content: 'One lucky holder will receive the "Better Dick Pix Package" of a new iPhone, Macbook Pro, and a ring light! *US based residents only, ETH equivalent outside of US*'
                 },
                 {
                     tag: 'Stop 5',
@@ -47,7 +47,7 @@ class RoadMap extends React.Component {
                 {
                     tag: 'Stop 7',
                     title: 'Bag of Dicks',
-                    content: 'WE SOLD OUT! THE DICK GAME NOW BEGINS. It&#39;s like Go Fish, but with dicks. Collect all the dicks in a set and receive exclusive, super rare airdrops, giveaways, and more!'
+                    content: 'WE SOLD OUT! THE DICK GAME NOW BEGINS. It\'s like Go Fish, but with dicks. Collect all the dicks in a set and receive exclusive, super rare airdrops, giveaways, and more!'
                 },
                 {
                     tag: 'Stop 8',

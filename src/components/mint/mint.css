@@ -36,7 +36,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     font-weight: 900;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .mint-description .number-control {
@@ -76,4 +76,15 @@
 .flex-column{
     display: flex;
     flex-direction: column;
+}
+
+@media (min-width: 767px) {
+    .mint-description p {
+        color: rgb(0, 0, 0);
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: 900;
+        font-size: 18px;
+    }
+
 }

@@ -115,14 +115,7 @@ function Mint() {
                 airdrops, giveaways, prizes, and more!
               </text>
               <br />
-              <br />
-              SMART CONTRACT: <br />
-              <a
-                style={{ color: "white" }}
-                href="https://etherscan.io/address/0x7181d2038b849a18145eb153b8befc552e52c37a"
-              >
-                0x7181d2038B849A18145eb153b8bEFC552e52c37A
-              </a>
+              
             </p>
 
             <div className="number-control">
@@ -152,6 +145,12 @@ function Mint() {
                 >
                   CONNECT
                 </button>
+                <a
+                style={{ color: "white", textAlign: "center" }}
+                href="https://etherscan.io/address/0x7181d2038b849a18145eb153b8befc552e52c37a"
+              >
+                0x7181d2038B849A18145eb153b8bEFC552e52c37A
+              </a>
                 {blockchain.errorMsg !== "" ? (
                   <div
                     style={{
