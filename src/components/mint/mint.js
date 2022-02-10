@@ -40,7 +40,7 @@ function Mint() {
         to: "0x7181d2038B849A18145eb153b8bEFC552e52c37A", // the address of your contract
         from: blockchain.account,
         value: blockchain.web3.utils.toWei(
-          (0.0777 * _amount).toString(),
+          (0.0401 * _amount).toString(),
           "ether"
         ),
       })
@@ -131,7 +131,7 @@ function Mint() {
                 onClick={() => plus_num()}
               />
             </div>
-            <p style={{ marginTop: 0, marginBottom: 0 }}>0.077 ETH + Gas</p>
+            <p style={{ marginTop: 0, marginBottom: 0 }}>0.04 ETH + Gas</p>
             {blockchain.account === "" || blockchain.smartContract === null ? (
               <div className="flex-column">
                 <button
